@@ -1,0 +1,11 @@
+C:\Users\inves\source\repos\Bad Apple\bin\Debug\ProyectoFinal.exe.config
+C:\Users\inves\source\repos\Bad Apple\bin\Debug\ProyectoFinal.exe
+C:\Users\inves\source\repos\Bad Apple\bin\Debug\ProyectoFinal.pdb
+C:\Users\inves\source\repos\Bad Apple\bin\Debug\System.Drawing.Common.dll
+C:\Users\inves\source\repos\Bad Apple\bin\Debug\System.Drawing.Common.pdb
+C:\Users\inves\source\repos\Bad Apple\bin\Debug\System.Drawing.Common.xml
+C:\Users\inves\source\repos\Bad Apple\obj\Debug\BadAppleConsole.csproj.AssemblyReference.cache
+C:\Users\inves\source\repos\Bad Apple\obj\Debug\BadAppleConsole.csproj.CoreCompileInputs.cache
+C:\Users\inves\source\repos\Bad Apple\obj\Debug\BadApple.F6798D26.Up2Date
+C:\Users\inves\source\repos\Bad Apple\obj\Debug\ProyectoFinal.exe
+C:\Users\inves\source\repos\Bad Apple\obj\Debug\ProyectoFinal.pdb

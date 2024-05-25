@@ -1,0 +1,6 @@
+F:\UPDS\Programación Básica\BadApple.Net-main\BadApple.Net\bin\Debug\BadApple.Net.exe
+F:\UPDS\Programación Básica\BadApple.Net-main\BadApple.Net\bin\Debug\BadApple.Net.pdb
+F:\UPDS\Programación Básica\BadApple.Net-main\BadApple.Net\obj\Debug\BadApple.Net.csproj.AssemblyReference.cache
+F:\UPDS\Programación Básica\BadApple.Net-main\BadApple.Net\obj\Debug\BadApple.Net.csproj.CoreCompileInputs.cache
+F:\UPDS\Programación Básica\BadApple.Net-main\BadApple.Net\obj\Debug\BadApple.Net.exe
+F:\UPDS\Programación Básica\BadApple.Net-main\BadApple.Net\obj\Debug\BadApple.Net.pdb
